@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/* .imagen-principal{
+  width: 100vw;
+  opacity: 0.3;
+  
+}
+.imagen-principal:hover{
+  opacity: 1;
+}
+.galeria{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.imagen-galeria{
+  width: 164px;
+ 
+}
+.imagen-galeria:hover{
+opacity: 0.3;
+cursor: pointer;
+} */
+.video{
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+}
+.header{
+  position: relative;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: aliceblue;
+  font-size: 20px;
+  animation-iteration-count: infinite;
+}
