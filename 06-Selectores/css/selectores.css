@@ -1,0 +1,11 @@
+.p-contenedor {
+color: rgb(32, 123, 32);
+padding: 10px;
+background-color:gray;
+}
+body section.main .contenedor{
+  color: green;
+}
+.contenedor #boton-contenedor{
+  background-color: yellow;
+}
